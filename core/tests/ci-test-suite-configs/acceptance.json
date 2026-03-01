@@ -523,6 +523,10 @@
     {
       "name": "logged-out-user/select-and-play-topic-from-classroom-page",
       "module": "core/tests/puppeteer-acceptance-tests/specs/logged-out-user/select-and-play-topic-from-classroom-page.spec.ts"
+    },
+    {
+      "name": "contributor-admin/manage-contributor-rights",
+      "module": "core/tests/puppeteer-acceptance-tests/specs/contributor-admin/manage-contributor-rights.spec.ts"
     }
   ]
 }
